@@ -1,6 +1,6 @@
 spring:
   application:
-    name: login-service
+    name: prathamtest
 
 server:
   port: 9092
